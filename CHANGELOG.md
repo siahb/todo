@@ -2,9 +2,13 @@
 
 [Public history](https://siahverse.cc/changelog/#todo) · [GitHub history](https://github.com/siahb/todo/commits/main/)
 
-Selected changes from GitHub commits, using the dates recorded in each source repository. These are code-history dates, not confirmed launch or deployment dates. Older work outside GitHub may not be recorded here.
+Selected changes from GitHub commits, using the dates recorded in each source repository. New entries use America/Los_Angeles dates. These are code-history dates, not confirmed launch or deployment dates. Older work outside GitHub may not be recorded here.
 
 The original app repository and the current Siahverse implementation both contribute to this history.
+
+## 2026-10-05
+
+- Made the task layout more compact to fit more tasks on screen. ([commit](https://github.com/siahb/siahverse/commit/c39c250920591225c2c9a172e3647f66a7262f10))
 
 ## 2026-10-01
 
